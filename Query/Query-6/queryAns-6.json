@@ -1,0 +1,182 @@
+[
+    {
+        "userId": 17,
+        "topicId": 3,
+        "attended": false,
+        "absent": {
+          "topicId": 3,
+          "topic": "Bootstrap",
+          "topicDate": "2020-10-17"
+        },
+        "task-notSubmitted": {
+          "taskId": 3,
+          "topicId": 3,
+          "userId": 17,
+          "task": "Bootstrap",
+          "dueDate": "2020-10-19",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 17,
+        "topicId": 3,
+        "attended": false,
+        "absent": {
+          "topicId": 3,
+          "topic": "Bootstrap",
+          "topicDate": "2020-10-17"
+        },
+        "task-notSubmitted": {
+          "taskId": 4,
+          "topicId": 4,
+          "userId": 17,
+          "task": "MongoDB",
+          "dueDate": "2020-10-20",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 11,
+        "topicId": 4,
+        "attended": false,
+        "absent": {
+          "topicId": 4,
+          "topic": "MongoDB",
+          "topicDate": "2020-10-18"
+        },
+        "task-notSubmitted": {
+          "taskId": 6,
+          "topicId": 6,
+          "userId": 11,
+          "task": "NodeJS",
+          "dueDate": "2020-10-27",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 12,
+        "topicId": 4,
+        "attended": false,
+        "absent": {
+          "topicId": 4,
+          "topic": "MongoDB",
+          "topicDate": "2020-10-18"
+        },
+        "task-notSubmitted": {
+          "taskId": 5,
+          "topicId": 5,
+          "userId": 12,
+          "task": "MySQL",
+          "dueDate": "2020-10-26",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 1,
+        "topicId": 5,
+        "attended": false,
+        "absent": {
+          "topicId": 5,
+          "topic": "MySQL",
+          "topicDate": "2020-10-24"
+        },
+        "task-notSubmitted": {
+          "taskId": 3,
+          "topicId": 3,
+          "userId": 1,
+          "task": "Bootstrap",
+          "dueDate": "2020-10-19",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 1,
+        "topicId": 5,
+        "attended": false,
+        "absent": {
+          "topicId": 5,
+          "topic": "MySQL",
+          "topicDate": "2020-10-24"
+        },
+        "task-notSubmitted": {
+          "taskId": 6,
+          "topicId": 6,
+          "userId": 1,
+          "task": "NodeJS",
+          "dueDate": "2020-10-27",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 5,
+        "topicId": 5,
+        "attended": false,
+        "absent": {
+          "topicId": 5,
+          "topic": "MySQL",
+          "topicDate": "2020-10-24"
+        },
+        "task-notSubmitted": {
+          "taskId": 5,
+          "topicId": 5,
+          "userId": 5,
+          "task": "MySQL",
+          "dueDate": "2020-10-26",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 5,
+        "topicId": 5,
+        "attended": false,
+        "absent": {
+          "topicId": 5,
+          "topic": "MySQL",
+          "topicDate": "2020-10-24"
+        },
+        "task-notSubmitted": {
+          "taskId": 6,
+          "topicId": 6,
+          "userId": 5,
+          "task": "NodeJS",
+          "dueDate": "2020-10-27",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 13,
+        "topicId": 5,
+        "attended": false,
+        "absent": {
+          "topicId": 5,
+          "topic": "MySQL",
+          "topicDate": "2020-10-24"
+        },
+        "task-notSubmitted": {
+          "taskId": 4,
+          "topicId": 4,
+          "userId": 13,
+          "task": "MongoDB",
+          "dueDate": "2020-10-20",
+          "submitted": false
+        }
+      },
+      {
+        "userId": 1,
+        "topicId": 6,
+        "attended": false,
+        "absent": {
+          "topicId": 6,
+          "topic": "NodeJS",
+          "topicDate": "2020-10-25"
+        },
+        "task-notSubmitted": {
+          "taskId": 3,
+          "topicId": 3,
+          "userId": 1,
+          "task": "Bootstrap",
+          "dueDate": "2020-10-19",
+          "submitted": false
+        }
+      }
+]

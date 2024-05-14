@@ -1,0 +1,141 @@
+[{
+    "_id": {
+      "$oid": "650862eb8c67570936e22c3b"
+    },
+    "userId": 1,
+    "problemName": "input/output"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c3c"
+    },
+    "userId": 3,
+    "problemName": "input/output"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c3d"
+    },
+    "userId": 5,
+    "problemName": "input/output"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c3e"
+    },
+    "userId": 10,
+    "problemName": "input/output"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c3f"
+    },
+    "userId": 14,
+    "problemName": "input/output"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c4f"
+    },
+    "userId": 2,
+    "problemName": "Absolute Beginner"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c50"
+    },
+    "userId": 6,
+    "problemName": "Absolute Beginner"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c51"
+    },
+    "userId": 13,
+    "problemName": "Absolute Beginner"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c52"
+    },
+    "userId": 8,
+    "problemName": "Absolute Beginner"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c5d"
+    },
+    "userId": 5,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c5e"
+    },
+    "userId": 9,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c5f"
+    },
+    "userId": 20,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c60"
+    },
+    "userId": 17,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c61"
+    },
+    "userId": 6,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c62"
+    },
+    "userId": 1,
+    "problemName": "Basics"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c6d"
+    },
+    "userId": 4,
+    "problemName": "Array"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c6e"
+    },
+    "userId": 10,
+    "problemName": "Array"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c6f"
+    },
+    "userId": 12,
+    "problemName": "Array"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c70"
+    },
+    "userId": 20,
+    "problemName": "Array"
+  },
+  {
+    "_id": {
+      "$oid": "650862eb8c67570936e22c71"
+    },
+    "userId": 17,
+    "problemName": "Array"
+  }
+  ]
