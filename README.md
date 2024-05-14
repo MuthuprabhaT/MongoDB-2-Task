@@ -2,7 +2,7 @@
 
 ### For the following question write the corresponding MongoDB queries
 
-- Find all the topics and tasks which are thought in the month of October
+- Find all the topics and tasks which are taught in the month of October
 
 - Find all the company drives which appeared between 15-oct-2020 and 31-oct-2020
 
